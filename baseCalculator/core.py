@@ -1,8 +1,8 @@
 from dic import hexdic
 """
  Core module for conversion from any base to any other base
-# At present only converts decimal to any base b
-# TODO: implementing such that `convert` converts from any base to base b
+ At present only converts decimal to any base b
+ TODO: implementing such that `convert` converts from any base to base b
 
 """
 
