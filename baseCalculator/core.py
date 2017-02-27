@@ -16,4 +16,4 @@ def convert(N, b):
                         return ans
         else:
                 return ans[::-1]
-print(convert(64,16))
+                
