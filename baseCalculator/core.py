@@ -1,7 +1,10 @@
 from dic import hexdic
-# Core module for conversion from any base to any other base
+"""
+ Core module for conversion from any base to any other base
 # At present only converts decimal to any base b
-# TODO: implementing such that `convert` converts from any base to b se b
+# TODO: implementing such that `convert` converts from any base to base b
+
+"""
 
 def convert(N, b):
     # main function that converts decimal number N to any base b
